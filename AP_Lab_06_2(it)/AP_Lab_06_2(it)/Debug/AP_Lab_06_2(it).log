@@ -1,0 +1,3 @@
+﻿  lab_06_2.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Acer\source\repos\AP_Lab_06_2(it)\Debug\AP_Lab_06_2(it).exe : fatal error LNK1120: 1 unresolved externals
